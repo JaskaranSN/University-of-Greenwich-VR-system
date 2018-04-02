@@ -449,11 +449,11 @@ span.onclick = function() {
   </div></td>
                                         <td class="center">NO</td>
                                     </tr>
-                                   <!-- <tr class="even gradeC"style='height: 100%; width: 100%; object-fit: contain'>
+                                   <tr class="even gradeC"style='height: 100%; width: 100%; object-fit: contain'>
                                         <td><input id="image" type="image" alt="King Charles"
   src="icons/King_Charles.PNG" width="40" height="40"></td>
                                         <td>King Charles</td>
-                                        <td><a href="https://players.cupix.com/p/sT7qV5Es" target="_blank"><button class="btn btn-sm btn-info" </a> <i class="fa fa-edit"></i> VR TOUR</button></td>
+                                        <td><a href="https://players.cupix.com/p/jAWrDdPZ" target="_blank"><button class="btn btn-sm btn-info" </a> <i class="fa fa-edit"></i> VR TOUR</button></td>
                                         <td> <button class="btn btn-sm btn-warning" button id="modalBtn" class="button" >SLIDESHOW</button>
 
   <div id="simpleModal" class="modal">
@@ -508,12 +508,12 @@ span.onclick = function() {
   </div></td>
                                         <td class="center">YES</td>
                                     </tr>
-									-->
+									
                                     <tr class="odd gradeA" style='height: 100%; width: 100%; object-fit: contain'>
                                         <td><input id="image" type="image" alt="King Williams"
   src="icons/King_William.PNG" width="40" height="40"></td>
                                         <td>King Williams</td>
-                                        <td><a href="https://players.cupix.com/p/sT7qV5Es" target="_blank"><button class="btn btn-sm btn-info" </a> <i class="fa fa-edit"></i> VR TOUR</button></td>
+                                        <td><a href="https://players.cupix.com/p/jAWrDdPZ" target="_blank"><button class="btn btn-sm btn-info" </a> <i class="fa fa-edit"></i> VR TOUR</button></td>
                                         <td> <button class="btn btn-sm btn-warning" button id="modalBtn2" class="button" >SLIDESHOW</button>
 
   <div id="simpleModal1" class="modal">
@@ -631,7 +631,7 @@ span.onclick = function() {
                                         <td><input id="image" type="image" alt="Queen Anne"
   src="icons/Queen_Anne.PNG" width="40" height="40"></td>
                                         <td>Queen Anne</td>
-                                        <td><a href="https://players.cupix.com/p/sT7qV5Es" target="_blank"><button class="btn btn-sm btn-info" </a> <i class="fa fa-edit"></i> VR TOUR</button></td>
+                                        <td><a href="https://players.cupix.com/p/vvpjFX5C" target="_blank"><button class="btn btn-sm btn-info" </a> <i class="fa fa-edit"></i> VR TOUR</button></td>
                                         <td> <button class="btn btn-sm btn-warning" button id="modalBtn4" class="button" >SLIDESHOW</button>
 
   <div id="simpleModal" class="modal">
@@ -692,7 +692,7 @@ span.onclick = function() {
                                         <td><input id="image" type="image" alt="Queen Mary"
   src="icons/Queen_Mary.PNG" width="40" height="40"></td>
                                         <td>Queen Mary</td>
-                                        <td><a href="https://players.cupix.com/p/sT7qV5Es" target="_blank"><button class="btn btn-sm btn-info" </a> <i class="fa fa-edit"></i> VR TOUR</button></td>
+                                        <td><a href="https://players.cupix.com/p/PKqfIfFs" target="_blank"><button class="btn btn-sm btn-info" </a> <i class="fa fa-edit"></i> VR TOUR</button></td>
                                         
                                         <td> <button class="btn btn-sm btn-warning" button id="modalBtn5" class="button" >SLIDESHOW</button>
 
