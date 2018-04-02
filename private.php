@@ -449,7 +449,7 @@ span.onclick = function() {
   </div></td>
                                         <td class="center">NO</td>
                                     </tr>
-                                    <tr class="even gradeC"style='height: 100%; width: 100%; object-fit: contain'>
+                                   <!-- <tr class="even gradeC"style='height: 100%; width: 100%; object-fit: contain'>
                                         <td><input id="image" type="image" alt="King Charles"
   src="icons/King_Charles.PNG" width="40" height="40"></td>
                                         <td>King Charles</td>
@@ -465,14 +465,14 @@ span.onclick = function() {
       <div class="modal-body">
         <p>Hello...I am a modal</p>
 		<div id="myCarousel" class="carousel slide" data-ride="carousel">
-  <!-- Indicators -->
+
   <ol class="carousel-indicators">
     <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
     <li data-target="#myCarousel" data-slide-to="1"></li>
     <li data-target="#myCarousel" data-slide-to="2"></li>
   </ol>
 
-  <!-- Wrapper for slides -->
+ 
   <div class="carousel-inner">
     <div class="item active">
       <img src="Images\Placeholder1.jpg" alt="Placeholder1"width="pixels">
@@ -488,7 +488,7 @@ span.onclick = function() {
     </div>
   </div>
 
-  <!-- Left and right controls -->
+  
   <a class="left carousel-control" href="#myCarousel" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left"></span>
     <span class="sr-only">Previous</span>
@@ -508,6 +508,7 @@ span.onclick = function() {
   </div></td>
                                         <td class="center">YES</td>
                                     </tr>
+									-->
                                     <tr class="odd gradeA" style='height: 100%; width: 100%; object-fit: contain'>
                                         <td><input id="image" type="image" alt="King Williams"
   src="icons/King_William.PNG" width="40" height="40"></td>
