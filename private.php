@@ -394,7 +394,7 @@ span.onclick = function() {
                                         <td><input id="image" type="image" alt="Chapel"
   src="icons/Chapel.PNG" width="40" height="40"></td>
                                         <td>Chapel</td>
-                                        <td><a href="https://players.cupix.com/p/sT7qV5Es" target="_blank"><button class="btn btn-sm btn-info" </a> <i class="fa fa-edit"></i> VR TOUR</button></td>
+                                        <td><a href="https://players.cupix.com/p/notfound" target="_blank"><button class="btn btn-sm btn-info" </a> <i class="fa fa-edit"></i> VR TOUR</button></td>
                                         <td> <button class="btn btn-sm btn-warning" button id="modalBtn1" class="button" >SLIDESHOW</button>
 
   <div id="simpleModal" class="modal">
